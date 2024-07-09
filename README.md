@@ -4,7 +4,7 @@ If you are using Ubuntu Machine, Git will be pre-installed. Clone the repository
 
 We shall only work in the same directory for the duration of this project. The reason you will understand at last stage.
 ```
-git clone https://github.com/sitchatt/Deployment_Of_ReactApp_to_AWS_Elastic_Beanstalk.git
+git clone https://github.com/neelshah2409/Deployment_Of_ReactApp_to_AWS_Elastic_Beanstalk.git
 cd Deployment_Of_ReactApp_to_AWS_Elastic_Beanstalk
 ```
 ## Step 2 : Install docker
